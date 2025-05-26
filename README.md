@@ -1,10 +1,10 @@
-# senac
+# Senac
 
 # Projeto: Implementação de Infraestrutura
   -Descrição: Documentação detalhada do processo de instalação e configuração de sistemas operacionais.
   -Objetivo: Ter uma estrutura organizada que ajude na compreensão e reprodução dos passos
  
-  # tecnologias utilizadas:
+  # Tecnologias utilizadas:
     - AIs
     - Google
     - Youtube
